@@ -1,0 +1,7 @@
+// package.json
+{
+  "name": "vercel-connection-tester",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple web connection tester for Vercel."
+}
